@@ -29,3 +29,5 @@ while True:
         total = (Amnt * IC) + total
         print("Total for your order is " + str(total))
 
+
+        
